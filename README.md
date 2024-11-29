@@ -19,5 +19,5 @@ Let’s learn and grow together—feedback and suggestions are always welcome!
 ## 🌐 Connect with Us  
 
 - **Podcast**: *Coming Soon!*  
-- **Social Media**: Follow us on [Twitter](#) and [LinkedIn](#) for updates.  
+- **Social Media**: Follow us on (https://www.instagram.com/thevisionaryvectorspodcast/?igsh=MXB2cndmdW54eGNjMg%3D%3D) for updates.  
 - **Email**: Reach out at [podcast@example.com](mailto:podcast@example.com).  
