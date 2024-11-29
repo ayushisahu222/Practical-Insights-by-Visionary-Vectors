@@ -1,6 +1,6 @@
 # 🎙️ Practical Insights by Visionary Vectors  
 
-Welcome to the repository for the **Visionary Vectors Podcast**, where we explore the fascinating world of Machine Learning (ML) and Artificial Intelligence (AI)!  
+Welcome to the repository of **The Visionary Vectors Podcast**, where we explore the fascinating world of Machine Learning (ML) and Artificial Intelligence (AI)!  
 
 Each episode dives deep into ML algorithms, breaking down complex concepts into simple, digestible insights. Whether you're a data science enthusiast, a budding ML engineer, or an experienced practitioner, you'll find something valuable here.  
 
