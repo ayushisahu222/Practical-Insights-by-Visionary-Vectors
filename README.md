@@ -4,7 +4,7 @@ Welcome to the repository for the **Visionary Vectors Podcast**, where we explor
 Each episode dives deep into ML algorithms, breaking down complex concepts into simple, digestible insights. Whether you're a data science enthusiast, a budding ML engineer, or an experienced practitioner, you'll find something valuable here.  
 
 ---
-📌 Repository Structure
+## 📌 Repository Structure
 
 This repository contains:
 - Case Study Demos: Practical implementations of ML algorithms discussed in the episodes.
